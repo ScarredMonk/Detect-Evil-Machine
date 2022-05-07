@@ -8,3 +8,6 @@ This tool in created in C#, which performs below functions:
 - [ ] Notifies on the console about the new machine accounts being added into any of the security groups
 
 ![image](https://user-images.githubusercontent.com/46210620/167267133-04175911-79b9-4bff-9144-aa4d7a609a9a.png)
+
+
+Blogpost Link - [https://rootdse.org/posts/monitoring-realtime-activedirectory-domain-scenarios](https://rootdse.org/posts/monitoring-realtime-activedirectory-domain-scenarios)
